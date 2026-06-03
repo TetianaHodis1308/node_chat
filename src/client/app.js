@@ -1,3 +1,4 @@
+/* eslint-env browser */
 'use strict';
 
 const { MessageType, USERNAME_STORAGE_KEY } = window.ChatConstants;
